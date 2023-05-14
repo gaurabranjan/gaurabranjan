@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/gouravranjanje1" target="blank"><img src="https://img.shields.io/twitter/follow/gouravranjanje1?logo=twitter&style=for-the-badge" alt="gouravranjanje1" /></a> </p>
 
-- 🔭 I’m currently working on [myPortfolio](gaurabranjan.tech)
+- 🔭 I’m currently working on [myPortfolio]([www.gaurabranjan.tech](http://gaurabranjan.tech/))
 
 - 🌱 I’m currently learning **JDBC,Python,Django Frameworks**
 
