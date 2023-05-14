@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/gouravranjanje1" target="blank"><img src="https://img.shields.io/twitter/follow/gouravranjanje1?logo=twitter&style=for-the-badge" alt="gouravranjanje1" /></a> </p>
 
-- 🔭 I’m currently working on [myPortfolio](www.gaurabranjan.tech)
+- 🔭 I’m currently working on [myPortfolio](gaurabranjan.tech)
 
 - 🌱 I’m currently learning **JDBC,Python,Django Frameworks**
 
@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **A web Game Multiplayer Online**
 
-- 👨‍💻 All of my projects are available at [www.gaurabranjan.tech](www.gaurabranjan.tech)
+- 👨‍💻 All of my projects are available at [www.gaurabranjan.tech](gaurabranjan.tech)
 
 - 📝 I regularly write articles on [fiverr,copyhacker](fiverr,copyhacker)
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **gouravranjanj@gmail.com**
 
-- 📄 Go through my Site and Know about my experiences [www.gaurabranjan.tech](www.gaurabranjan.tech)
+- 📄 Go through my Site and Know about my experiences [gaurabranjan.tech](gaurabranjan.tech)
 
 - ⚡ Fun fact **It is impossible for most people to lick their own elbow.**
 
