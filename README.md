@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurab Ranjan</h1>
 <h3 align="center">A passionate frontend developer and Java J2SE programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/81RA.gif">
 
 <p align="left"> <a href="https://twitter.com/gouravranjanje1" target="blank"><img src="https://img.shields.io/twitter/follow/gouravranjanje1?logo=twitter&style=for-the-badge" alt="gouravranjanje1" /></a> </p>
 
