@@ -2,10 +2,6 @@
 <h3 align="center">A passionate frontend developer and Java J2SE programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/81RA.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurabranjan&label=Profile%20views&color=0e75b6&style=flat" alt="gaurabranjan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurabranjan" alt="gaurabranjan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/gouravranjanje1" target="blank"><img src="https://img.shields.io/twitter/follow/gouravranjanje1?logo=twitter&style=for-the-badge" alt="gouravranjanje1" /></a> </p>
 
 - 🔭 I’m currently working on [([www.gaurabranjan.tech](https://gaurabranjan.github.io/gaurab.portfolio/))]
